@@ -250,8 +250,9 @@ bootstrap.min.css:5
 
 #about {
 	padding: 150px 0px;
-	background-image: url(../img/about-bg.jpg);
+	background-image: url("../../MYFS/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg");
 	background-repeat: no-repeat;
+	opacity:0.5;
 	background-size: cover;
 	background-attachment: fixed;
 }
