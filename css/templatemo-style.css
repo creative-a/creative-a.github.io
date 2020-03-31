@@ -211,7 +211,7 @@ bootstrap.min.css:5
 	width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image: url("file:///F:/creative.github.io/img/139.jpg");
+  	background-image: url("../img/139.jpg");
   	vertical-align: middle;
 }
 .aaa{
@@ -261,7 +261,7 @@ bootstrap.min.css:5
 	padding: 150px 0px;
 
  
-		background-image: url("file:///F:/creative.github.io/img/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg");
+		background-image: url("../img/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg");
 
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -432,7 +432,7 @@ bootstrap.min.css:5
 
 
 #blog {
-	background-image: url(../img/blog-bg.jpg);
+	background-image: url(../img/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
