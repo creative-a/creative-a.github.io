@@ -219,6 +219,8 @@ bootstrap.min.css:5
 	background-color:#888888;
 }
 
+.col-md-12{align-content: center;  	horizontal-align: middle;}
+
 .baner-content .text-content {
 	text-align: center;
 		background-color:;
