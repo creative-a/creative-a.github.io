@@ -211,23 +211,32 @@ bootstrap.min.css:5
 	width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image: url(../img/banner_bg.jpg);
+  	background-image: url("file:///F:/creative.github.io/img/139.jpg");
   	vertical-align: middle;
+}
+.aaa{
+	color:aqua;
+	background-color:#888888;
 }
 
 .baner-content .text-content {
 	text-align: center;
+		background-color:;
+ 
 }
 
 .baner-content .text-content h2 {
 	font-size: 36px;
 	font-weight: 400;
+	background-color:#464646;
+	opacity:;
 	color: #fff;
 }
 
 .baner-content .text-content h2 span {
 	font-weight: 700;
 	color: #33c1cf!important;
+	
 }
 
 .baner-content .text-content h2 em {
@@ -250,9 +259,11 @@ bootstrap.min.css:5
 
 #about {
 	padding: 150px 0px;
-	background-image: url("../../MYFS/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg");
+
+ 
+		background-image: url("file:///F:/creative.github.io/img/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg");
+
 	background-repeat: no-repeat;
-	opacity:0.5;
 	background-size: cover;
 	background-attachment: fixed;
 }
