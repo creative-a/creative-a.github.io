@@ -919,6 +919,7 @@ footer .connect-us ul li a:hover {
 	}
 
 }
+.row{align-content: flex-end;	padding-top: 24;  }
 
 @media (max-width: 385px){
 
@@ -929,6 +930,7 @@ footer .connect-us ul li a:hover {
 	footer .location ul li:first-child {
 		margin-right: 0px;
 		padding-right: 0px;
+	
 		border-right: none;
 	}
 
