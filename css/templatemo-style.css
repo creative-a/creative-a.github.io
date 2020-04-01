@@ -211,7 +211,7 @@ bootstrap.min.css:5
 	width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image: url("../img/139.jpg");
+  	background-image: url("../img/oops (12).jpg");
   	vertical-align: middle;
 }
 .aaa{
@@ -383,7 +383,7 @@ bootstrap.min.css:5
 #testimonial {
 	background-color: #f7c552;
 	text-align: center;
-	padding: 100px 0px;
+	padding: 20px 0px;
 }
 
 #testimonial .testimonials-item h4 {
@@ -434,7 +434,7 @@ bootstrap.min.css:5
 
 
 #blog {
-	background-image: url(../img/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg);
+	background-image: url("../img/design-templates-on-a-flat-screen-computer-monitor-1714202.jpg");		
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -548,7 +548,7 @@ bootstrap.min.css:5
 #contact-us {
 	background-color: #596065;
 	text-align: center;
-	padding: 80px 0px;
+	padding: 13px 0px;
 }
 
 #contact-us .section-heading h4 {
